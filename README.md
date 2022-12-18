@@ -1,19 +1,9 @@
-# Preparation for the 2022 JETSCAPE School
 
-Please carefully complete **all** of the below instructions **by Friday July 22**.
-
-In case of problems please head to the slack (you can find the link on the indico page) and ask in the `software-install-problems` channel.
-
-Due to a large number of participants and the online format, we will have limited capacity to address 
-personal software installation questions during the school — it is therefore imperative to **carefully**
-complete the below steps in advance of the school.
-If you have any issues or questions, please post on the slack.
-
-## (1) Download school material
+## (1) Download the material
 
 We will use code from several git repositories throughout the course of the school,
 which you will run in a controlled software environment (docker). 
-Create a single directory to store all materials from the school:
+Create a single directory to store all materials from the JETSCAPE Summer School repository:
 ```
 mkdir jetscape-docker
 cd jetscape-docker
